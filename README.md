@@ -1,6 +1,7 @@
-*Note
-This is a forked version of squidfunk/mkdocs-material and used to host my site web. TBD
+## Note - Disclaimer
 
+This is a forked version of [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) and used to host my personal website.
+This template is unlikely to be updated over time, and I advise to report issues related to the "material" theme directly at [squidfunk/mkdocs-material issue page](https://github.com/squidfunk/mkdocs-material/issues).
 
 
 
