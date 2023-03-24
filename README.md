@@ -1,4 +1,4 @@
-#Note
+*Note
 This is a forked version of squidfunk/mkdocs-material and used to host my site web. TBD
 
 
